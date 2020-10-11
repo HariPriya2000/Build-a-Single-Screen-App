@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Build a Single Screen App</string>
+    <string name="picture_of_the_restaurant">picture of the restaurant</string>
+    <string name="restaurant_name">Pastry, Coffee n\' Conversation</string>
+    <string name="description">As the name itself suggests, our cafe is a perfect location to have a nice time with delicious Pastries and Coffee.\nOur restaurant is an apt food place-cum-a Coffee shop which also offers a wide variety of Sandwiches, Pizzas, Rolls, Beverages.</string>
+    <string name="phone_number">098662 27505</string>
+    <string name="address">Shop No. 21, Dutt Island, Siripuram Junction, Near HSBC, Siripuram, Visakhapatnam, Andhra Pradesh, 530003.</string>
+    <string name="icon_address">icon address</string>
+    <string name="icon_phone">icon phone</string>
+</resources>
